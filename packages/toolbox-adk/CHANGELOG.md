@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.1](https://github.com/googleapis/mcp-toolbox-sdk-python/compare/toolbox-adk-v0.7.0...toolbox-adk-v0.7.1) (2026-03-14)
+
+
+### Miscellaneous Chores
+
+* **deps:** update mcp toolbox server version in integration tests to v0.29.0 to v0.29.0 ([#587](https://github.com/googleapis/mcp-toolbox-sdk-python/issues/587)) ([8e02e62](https://github.com/googleapis/mcp-toolbox-sdk-python/commit/8e02e6283e7d1ec842442b32f652829a6107d15e))
+
 ## [0.7.0](https://github.com/googleapis/mcp-toolbox-sdk-python/compare/toolbox-adk-v0.6.1...toolbox-adk-v0.7.0) (2026-03-05)
 
 
